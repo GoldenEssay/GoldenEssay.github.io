@@ -109,6 +109,10 @@ ul.posts li {
   text-align: left;
 }
 
+.content hl {
+  color: yellow;
+
+}
 .terms h1 {
   font-size: 3vmax;
   font-family: 'Arial';
